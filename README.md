@@ -11,7 +11,8 @@ Should also have mentions to code of conduct and contributing guidelines.
 
 
 
-|───Equipment_repository_template  
+```
+    |───Equipment_repository_template  
     |  
     |───Documentation  
     |   |  
@@ -42,5 +43,5 @@ Should also have mentions to code of conduct and contributing guidelines.
     |    |───MCU    
     |        |───Libraries    
     |    
-    |───Optional_landing_page   
+    |───Optional_landing_page```  
             
