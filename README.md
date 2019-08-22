@@ -12,35 +12,35 @@ Should also have mentions to code of conduct and contributing guidelines.
 
 
 |───Equipment_repository_template  
-    |
+    |  
     |───Documentation  
-    |   |
+    |   |  
     |   |───Building  
-    |   |───Using
+    |   |───Using  
     |   
-    |───Hardware
-    |   |
-    |   |───BOM
-    |   |
-    |   |───Datasheets
-    |   |
-    |   |───Electronics
-    |   |   |
-    |   |   |───Off_the_shelf  
-    |   |   |
-    |   |   |───PCB
+    |───Hardware  
+    |   |  
+    |   |───BOM  
+    |   |  
+    |   |───Datasheets  
+    |   |  
+    |   |───Electronics  
+    |   |   |  
+    |   |   |───Off_the_shelf    
+    |   |   |  
+    |   |   |───PCB  
     |   |   
-    |   |───Frames
-    |   |
-    |   |───Mechanics
-    |
-    |───Software  
-    |    |
-    |    |───GUI   
+    |   |───Frames  
+    |   |  
+    |   |───Mechanics  
+    |  
+    |───Software   
+    |    |  
+    |    |───GUI    
     |    |   |───Libraries   
-    |    |
-    |     |───MCU  
-    |         |───Libraries   
+    |    |  
+    |    |───MCU    
+    |        |───Libraries    
     |    
-    |───Optional_landing_page  
+    |───Optional_landing_page   
             
