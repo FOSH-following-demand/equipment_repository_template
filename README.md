@@ -7,23 +7,40 @@ Readme can have a link to all the relevant files/documents and can/should be use
 Should also have mentions to code of conduct and contributing guidelines.
 
 
-#### Here is the repository structure:
+#### Here is the repository structure:  
 
-|---Equipment_repository_template  
-|   |---Documentation  
-|   |   |---Building  
-|   |   |---Using  
-|   |---Hardware  
-|   |   |---BOM  
-|   |   |---Datasheets  
-|   |   |---Electronics
-|   |   |   |---Off_the_shelf  
-|   |   |   |---PCB  
-|   |   |---Frames  
-|   |   |---Mechanics  
-|   |---Optional_landing_page  
-|   |---Software  
-|   |   |---GUI   
-|   |   |   |---Libraries   
-|   |   |---MCU  
-|   |   |   |---Libraries   
+
+
+|───Equipment_repository_template  
+    |
+    |───Documentation  
+    |   |
+    |   |───Building  
+    |   |───Using
+    |   
+    |───Hardware
+    |   |
+    |   |───BOM
+    |   |
+    |   |───Datasheets
+    |   |
+    |   |───Electronics
+    |   |   |
+    |   |   |───Off_the_shelf  
+    |   |   |
+    |   |   |───PCB
+    |   |   
+    |   |───Frames
+    |   |
+    |   |───Mechanics
+    |
+    |───Software  
+    |    |
+    |    |───GUI   
+    |    |   |───Libraries   
+    |    |
+    |     |───MCU  
+    |         |───Libraries   
+    |    
+    |───Optional_landing_page  
+            
